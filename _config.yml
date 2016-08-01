@@ -1,0 +1,14 @@
+layout_spectrum: 0.16657137777656317
+typography_spectrum: 0.37836370756849647
+color:
+  brandStrength: 0.8213382959365845
+  lightness: 0.7712255781516433
+  saturation: 0.4122623326256871
+  rhythmicContrast: 0.2953768391162157
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+name: Baldwin80
